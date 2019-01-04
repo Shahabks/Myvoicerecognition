@@ -66,11 +66,12 @@ manager pip, on Linux, macOS, and Windows:
 
                                            pip install Myvoicerecognition  
 or, to update your installed version to the latest release:
+
                                            pip install -u Myvoicerecognition 
 
 NOTE: 
+You need to get the following packages installed:
 
-You need to get the following packages installed: 
                     the Microsoft Visual C++ Redistributable for Visual Studio 2017 (x86 or x64, see your system)
                     PyAudio>= 0.2.11, pip install PyAudio (win),
                                       $ sudo apt-get install python-pyaudio python3-pyaudio (Debian-based Linux)
