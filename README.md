@@ -11,7 +11,7 @@ In this package, we will test our wave2word speech recognition using AI, for Eng
 in the future releases, other languages will be added to make a language-independent speech
 recognition. 
 
-                                        Concept
+                                                  Concept
 
 We may guess a word from unknown spoken languages just by listening to the sound of the Speech. 
 To us, in an interaction between a human and a machine, the machine should recognise sounds before
@@ -86,6 +86,8 @@ a microphone other than the default, you will need to specify which one to use b
 
 To check how the Myvoicerecognition functions behave, please check EXAMPLES.docx on 
 https://github.com/Shahabks/Myvoicerecognition
+
+                                                  Development
 
 Myvoicerecognition was developed by MYOLUTIONS Lab in Japan. It is part of New Generation of Voice
 Recognition and Acoustic & Language modeling Project in MYSOLUTIONS Lab. That is planned to enrich 
